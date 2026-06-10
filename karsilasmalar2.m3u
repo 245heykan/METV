@@ -1,13 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",20:00 | Malta - Türkiye
+#EXTINF:-1 group-title="Canlı Maçlar",22:45 | Portekiz - Nijerya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://8pi.d72577a9dd0ec30.sbs/ex2/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",23:00 | İngiltere - Kosta Rika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://8pi.d72577a9dd0ec30.sbs/ex3/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",18:00 | Türkiye - ABD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://8pi.d72577a9dd0ec30.sbs/trtspor/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",19:00 | Belçika - Bulgaristan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://8pi.d72577a9dd0ec30.sbs/ss2/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",20:00 | Beşiktaş GAİN - Bahçeşehir Klj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://8pi.d72577a9dd0ec30.sbs/b5/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",22:00 | Malaga - Las Palmas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
 https://8pi.d72577a9dd0ec30.sbs/ex1/mono.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",21:00 | Barcelona - Iberostar Tenerife
+#EXTINF:-1 group-title="Canlı Maçlar",22:30 | Sırbistan - Arjantin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
-https://8pi.d72577a9dd0ec30.sbs/sms2/mono.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",22:00 | Almeria - Castellon
+https://8pi.d72577a9dd0ec30.sbs/ss2/mono.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",23:00 | Fransa - İtalya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
 https://8pi.d72577a9dd0ec30.sbs/ss/mono.m3u8

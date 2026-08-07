@@ -1,34 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/621.gif" group-title="CANLI MAÇLAR - TFF 1. Lig",Boluspor - Manisa FK [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+ https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
+# İki logo: https://im.mackolik.com/img/logo/buyuk/621.gif | https://im.mackolik.com/img/logo/buyuk/14224.gif
+
 #EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/507301479b45e46f7357c0151c65bab6.png" group-title="CANLI MAÇLAR - Club Friendlies",Dynamo Pardubice - Vlci Zilina [18:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19922092
 # İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/507301479b45e46f7357c0151c65bab6.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/f116eecb146a36721ae7c09fb821b3c6.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/52655f46bc49fd440be5b34716c6b8fc.png" group-title="CANLI MAÇLAR - Georgia Championship",Rustavi - FC Torpedo Kutaisi [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922671
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/52655f46bc49fd440be5b34716c6b8fc.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/cd7ffa685d36bea82f0269df07360401.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4436.png" group-title="CANLI MAÇLAR - Poland Championship. Liga...",Polonia Bytom - Pogon [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922680
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4436.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/55143.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/81eef38a5257f0e415c6fdb2ba659d80.png" group-title="CANLI MAÇLAR - Challenger. Lexington",Rei Sakamoto - Edas Butvilas [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923016
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/81eef38a5257f0e415c6fdb2ba659d80.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ee2446b5ed4be22c3baa1849910c5cfa.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/102da5b8b4115d85874858a3482e8db3.png" group-title="CANLI MAÇLAR - Czech Republic. 2 Liga",Viagem Usti nad Labem - Arsenal Ceska Lipa [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922803
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/102da5b8b4115d85874858a3482e8db3.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/801c328b8b427968c118a350f9c2ac8e.png
 
 #EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/12283.png" group-title="CANLI MAÇLAR - Friendly Tournament. Nati...",İsveç (Bayanlar) - Finlandiya (Bayanlar) [19:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -36,227 +18,239 @@
 19922681
 # İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/12283.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/710268add31692f5dafdb36868330c77.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/c92f1402b6aaeb7e123aa0083ec8a654.png" group-title="CANLI MAÇLAR - Challenger. Lexington",Abedallah Shelbayh - Dusan Lajovic [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923017
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/c92f1402b6aaeb7e123aa0083ec8a654.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/8ceba881b45f7b68a254326ed81ef971.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/13353.png" group-title="CANLI MAÇLAR - Finland. Veikkausliiga",Seinajoen Jalkapallokerho - IF Gnistan [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922601
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/13353.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d0493902d8ead6005001755f2e96ac7d.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/12231.png" group-title="CANLI MAÇLAR - Czech Republic. 2 Liga",SFC Opava - SK Kladno [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922801
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/12231.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5532.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/da3ef969f3b2be6456618b4aec06c008.png" group-title="CANLI MAÇLAR - Czech Republic. 2 Liga",1. SK Prostějov - MFK Karviná [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922802
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/da3ef969f3b2be6456618b4aec06c008.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5502.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/9c95429e0b55be18efa10e0531908e98.png" group-title="CANLI MAÇLAR - Czech Republic. 2 Liga",Dukla Prague - SK Hanácká Slavia Kroměříž [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922699
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/9c95429e0b55be18efa10e0531908e98.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4452616dd784e652fc8073e802a4f179.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5498.png" group-title="CANLI MAÇLAR - Czech Republic. 2 Liga",FC Graffin Vlašim - Viktoria Zizkov [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922804
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5498.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/329e687cd8e96fdf147aad92a1b5c749.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b9a9d6d0a02a782d1c756308c29b0487.png" group-title="CANLI MAÇLAR - Estonia. Meistriliiga",FC Kuressaare - Harju Jalgpallikooli [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922686
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b9a9d6d0a02a782d1c756308c29b0487.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/bd7512062f00fc92729be1c3963bcbe0.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ac26c24da03beb53decb043454fbffc6.png" group-title="CANLI MAÇLAR - WTA. Toronto. Doubles",Andreescu/Cross - Gleason/Eikeri [19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923022
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ac26c24da03beb53decb043454fbffc6.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/66f2be5980174a7ec5eb782335264641.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/54e4ec640df0f4e6ee34daefa38a9402.png" group-title="CANLI MAÇLAR - Austria. Second League",SKN St. Pölten - FK Avusturya Wien II [19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922933
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/54e4ec640df0f4e6ee34daefa38a9402.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/27437.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/11161.png" group-title="CANLI MAÇLAR - Austria. Second League",FC Liefering Salzburg - WSC Hertha Wels [19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922932
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/11161.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/eb8bbd52151598e296634262bddc4e6c.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/c64e96600a1b0c9e5967082639910ac9.png" group-title="CANLI MAÇLAR - ATP. Montreal. Doubles",Bolelli/Vavassori - Luz/Matos [19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922891
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/c64e96600a1b0c9e5967082639910ac9.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/3af826a48b7b975f60c3d7545db176ef.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/10de964c3c8d7bb52b467ace9d711810.png" group-title="CANLI MAÇLAR - ATP. Montreal. Doubles",Nys/Roger-Vasselin - Granollers/Ceballos [19:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922921
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/10de964c3c8d7bb52b467ace9d711810.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/1a3aa9d4995e375f90e1ac907f90d201.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4a7dcde1d018a1013526a3e53346ab0b.png" group-title="CANLI MAÇLAR - WTA. Toronto. Doubles",Bucsa/Chong - Mihalikova/Nicholls [19:30]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4a7dcde1d018a1013526a3e53346ab0b.png" group-title="CANLI MAÇLAR - WTA. Toronto. Doubles",Bucsa/Chong - Mihalikova/Nicholls [19:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19922898
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4a7dcde1d018a1013526a3e53346ab0b.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/f95537307bb8b6ec96e83e8c887b46b4.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4a7dcde1d018a1013526a3e53346ab0b.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/f95537307bb8b6ec96e83e8c887b46b4.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png" group-title="CANLI MAÇLAR - ATP. Montreal",Tallon Griekspoor - Matteo Arnaldi [19:35]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png" group-title="CANLI MAÇLAR - ATP. Montreal",Tallon Griekspoor - Matteo Arnaldi [19:35]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19922926
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/a0dd1b46bc95e4570ee17d77140ba55c.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8547a2d393d0897eb7126d7ed8f14dac.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/a0dd1b46bc95e4570ee17d77140ba55c.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b46616929ce67c8079f15f826a4850e3.png" group-title="CANLI MAÇLAR - ATP. Montreal",Daniel Merida Aguilar - Alex Michelsen [19:35]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b46616929ce67c8079f15f826a4850e3.png" group-title="CANLI MAÇLAR - ATP. Montreal",Daniel Merida Aguilar - Alex Michelsen [19:35]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19922892
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b46616929ce67c8079f15f826a4850e3.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/37614850dbc6418af64bfa66dd7b27b7.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b46616929ce67c8079f15f826a4850e3.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/37614850dbc6418af64bfa66dd7b27b7.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b814059db402229f398d32890d39f8ea.png" group-title="CANLI MAÇLAR - WTA. Toronto",Ann Li - Elena Rybakina [19:35]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19922900
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b814059db402229f398d32890d39f8ea.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/485f3144f220ef9f0848fadabc93f74a.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d4fafae535a56bfd15977763aafffb03.png" group-title="CANLI MAÇLAR - Belarus. Premier League",FC Slavia-Mozyr - Dnepr Mogilev [19:45]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923027
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d4fafae535a56bfd15977763aafffb03.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/adc141aa83276efa8ed4b3aff88e222f.PNG
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/70835c075730e3cdf531b538bf90a0e2.png" group-title="CANLI MAÇLAR - Friendlies. National Team...",Sırbistan (Bayanlar) - Rusya (Bayanlar) [19:55]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/70835c075730e3cdf531b538bf90a0e2.png" group-title="CANLI MAÇLAR - Friendlies. National Team...",Sırbistan (Bayanlar) - Rusya (Bayanlar) [19:55]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923111
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/70835c075730e3cdf531b538bf90a0e2.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/16609.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/70835c075730e3cdf531b538bf90a0e2.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/16609.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/028c11a1fd23997060105656b0cdf4ae.png" group-title="CANLI MAÇLAR - South American Cup",Venezuela - Paraguay [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923105
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/028c11a1fd23997060105656b0cdf4ae.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/24727.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/14561.png" group-title="CANLI MAÇLAR - Central American and Cari...",Trinidad ve Tobago (Bayanlar) - Kosta Rika (Bayanlar) [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923159
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/14561.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/14525.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/11421.png" group-title="CANLI MAÇLAR - Sweden. Superettan",Östersunds FK - GIF Sundsvall [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923249
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/11421.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/64c9fd5dd84263672fdd5d7250215f03.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/85a96773a8ac68f85f986f3a515ae900.png" group-title="CANLI MAÇLAR - Sweden. Division 1",Kristianstads FF - Ängelholms FF [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923180
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/85a96773a8ac68f85f986f3a515ae900.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/75e74274643372558231d071805f4e61.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/47593.png" group-title="CANLI MAÇLAR - Club Friendlies. Top",AD Ceuta - Málaga CF [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923149
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/47593.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/3450.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/35565.png" group-title="CANLI MAÇLAR - Denmark. Superliga",SønderjyskE - Viborg FF [20:00]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/35565.png" group-title="CANLI MAÇLAR - Denmark. Superliga",SønderjyskE - Viborg FF [20:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923095
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/35565.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ba012a46472b0b2fe0904d2e4b02039d.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/35565.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ba012a46472b0b2fe0904d2e4b02039d.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d7d65bdcbe0eea27aff0a79d0af82639.png" group-title="CANLI MAÇLAR - Czech Republic. Chance Li...",FC Zbrojovka Brno - Dukla Prague [20:00]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/47593.png" group-title="CANLI MAÇLAR - Club Friendlies. Top",AD Ceuta - Málaga CF [20:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923149
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/47593.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/3450.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/028c11a1fd23997060105656b0cdf4ae.png" group-title="CANLI MAÇLAR - South American Cup",Venezuela - Paraguay [20:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923105
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/028c11a1fd23997060105656b0cdf4ae.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/24727.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/d7d65bdcbe0eea27aff0a79d0af82639.png" group-title="CANLI MAÇLAR - Czech Republic. Chance Li...",FC Zbrojovka Brno - Dukla Prague [20:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923098
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d7d65bdcbe0eea27aff0a79d0af82639.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/bdc9684d749c4ccfa78e51254d694458.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/d7d65bdcbe0eea27aff0a79d0af82639.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/bdc9684d749c4ccfa78e51254d694458.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4316.png" group-title="CANLI MAÇLAR - Norway. Eliteserien",Sandefjord Fotball - KFUM-Kameratene Oslo [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923099
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4316.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/13307.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/308fc5954cb9b1d9af0aa404fdbf73d3.png" group-title="CANLI MAÇLAR - Switzerland Championship....",Yverdon (Bayanlar) - FC Zürich (Bayanlar) [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923187
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/308fc5954cb9b1d9af0aa404fdbf73d3.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/d2643e75cee690e85fdeecba990d7b26.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/bad01351a6e6496703f9850e81a91af5.png" group-title="CANLI MAÇLAR - Germany. 3. Liga",SV Waldhof Mannheim - Fortuna Dusseldorf [20:00]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/bad01351a6e6496703f9850e81a91af5.png" group-title="CANLI MAÇLAR - Germany. 3. Liga",SV Waldhof Mannheim - Fortuna Dusseldorf [20:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923100
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/bad01351a6e6496703f9850e81a91af5.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/4fe22b887353b3d528159327ddfdc273.PNG
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/bad01351a6e6496703f9850e81a91af5.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4fe22b887353b3d528159327ddfdc273.PNG
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/3fbd21bb6583214b30f319739cbc6069.png" group-title="CANLI MAÇLAR - Colombia. Copa Trinche",Forza Villamaria - Coch-Rifas Modernas [20:15]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4316.png" group-title="CANLI MAÇLAR - Norway. Eliteserien",Sandefjord Fotball - KFUM-Kameratene Oslo [20:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923099
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4316.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/13307.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/3fbd21bb6583214b30f319739cbc6069.png" group-title="CANLI MAÇLAR - Colombia. Copa Trinche",Forza Villamaria - Coch-Rifas Modernas [20:15]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923388
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/3fbd21bb6583214b30f319739cbc6069.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/b5eeb3cc19bdd89f5ab02962c3a5c5be.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/3fbd21bb6583214b30f319739cbc6069.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b5eeb3cc19bdd89f5ab02962c3a5c5be.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/217983.png" group-title="CANLI MAÇLAR - Switzerland. Challenge Le...",Kriens - Yverdon Sport [20:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923330
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/217983.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/256b695f8871c1d5b3068dabfb62fb48.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/1511e60120f1da569cfd78e3ffcfb5f4.png" group-title="CANLI MAÇLAR - Faroe Islands. Effodeildi...",07 Vestur - EB/Streymur [20:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923447
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/1511e60120f1da569cfd78e3ffcfb5f4.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ab1b63157e91b4610b643e007d806da0.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/944e6e7dc68a5e0e14c5ecec022b6f53.png" group-title="CANLI MAÇLAR - Club Friendlies. Top",Racing de Santander - Deportivo Alavés [20:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923415
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/944e6e7dc68a5e0e14c5ecec022b6f53.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/ac7cf1b559bb1e461f05ea5e9bd6d8b2.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/1a98537c314cdc0e9422489d304c158e.png" group-title="CANLI MAÇLAR - Sweden. Division 1",Enköpings SK - Karlbergs BK [20:30]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923452
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/1a98537c314cdc0e9422489d304c158e.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/dee108d74a3c82cddc47839aab24a518.png
-
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/36be565b25f668014da1ac0404fc8bf8.png" group-title="CANLI MAÇLAR - Austria. Bundesliga",Rheindorf Altach - WSG Tirol [20:30]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/36be565b25f668014da1ac0404fc8bf8.png" group-title="CANLI MAÇLAR - Austria. Bundesliga",Rheindorf Altach - WSG Tirol [20:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
 19923378
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/36be565b25f668014da1ac0404fc8bf8.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/9f488319d51c0cb13d763648a7a2a8f9.png
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/36be565b25f668014da1ac0404fc8bf8.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/9f488319d51c0cb13d763648a7a2a8f9.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/f399df00c80f1282df5888399b907ffc.png" group-title="CANLI MAÇLAR - Switzerland. Challenge Le...",Stade Lausanne-Ouchy - FC Rapperswil-Jona [20:30]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/944e6e7dc68a5e0e14c5ecec022b6f53.png" group-title="CANLI MAÇLAR - Club Friendlies. Top",Racing de Santander - Deportivo Alavés [20:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923342
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/f399df00c80f1282df5888399b907ffc.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/7d44a37b1134e52ffe522299cc901b5e.png
+19923415
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/944e6e7dc68a5e0e14c5ecec022b6f53.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ac7cf1b559bb1e461f05ea5e9bd6d8b2.png
 
-#EXTINF:-1 tvg-logo="https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5660.png" group-title="CANLI MAÇLAR - Switzerland. Challenge Le...",Winterthur - Wil 1900 [20:30]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/0f30ca51f3e5272dbc1242fc3d986055.png" group-title="CANLI MAÇLAR - ATP. Montreal. Doubles",Cash/Nakashima - Arevalo-Gonzalez/Pavic [21:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
-19923338
-# İki logo: https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/5660.png | https://1xlite-75641.pro/resized/size16/sfiles/logo_teams/95813fdc20f657f1d0e50d8564adfaf3.png
+19923868
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/0f30ca51f3e5272dbc1242fc3d986055.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/7f2cf76a77ccb14cad4d64e48d705a91.png
 
-#EXTINF:-1 tvg-logo="https://im.mackolik.com/img/logo/buyuk/621.gif" group-title="CANLI MAÇLAR - TFF 1. Lig",Boluspor - Manisa FK [21:30]
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ed44c3a24abe44f8cab1cd2c1a591d47.png" group-title="CANLI MAÇLAR - Netherlands. Eredivisie",SC Cambuur - Excelsior [21:00]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
- https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
-# İki logo: https://im.mackolik.com/img/logo/buyuk/621.gif | https://im.mackolik.com/img/logo/buyuk/14224.gif
+19923632
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ed44c3a24abe44f8cab1cd2c1a591d47.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/d7571b59e2dda01adeb4bb35d46069ac.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/17ddb7751e4ece41f47daed9994824ca.png" group-title="CANLI MAÇLAR - Romania. Liga 1",UTA Arad - Rapid Bucuresti [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923616
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/17ddb7751e4ece41f47daed9994824ca.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/1826.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4230.png" group-title="CANLI MAÇLAR - Netherlands. Eerste Divis...",VVV-Venlo - Heracles Almelo [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923700
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4230.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4216.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4258.png" group-title="CANLI MAÇLAR - Netherlands. Eerste Divis...",FC Emmen - Roda JC Kerkrade [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923701
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4258.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4228.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/a2380ff92ec2744389ac9675eaab1d66.png" group-title="CANLI MAÇLAR - Netherlands. Eerste Divis...",FC Oss - NAC Breda [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923705
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/a2380ff92ec2744389ac9675eaab1d66.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/4220.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/7bdac380e0a29d5119eb13bd67f2e3ad.png" group-title="CANLI MAÇLAR - Netherlands. Eerste Divis...",Vitesse - RKC Waalwijk [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923693
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/7bdac380e0a29d5119eb13bd67f2e3ad.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/6b9ef5ff232d64ef24e45173c717c0f1.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8b6a824fe10634e41c6b7fdce8dae713.png" group-title="CANLI MAÇLAR - Netherlands. Eerste Divis...",FC Dordrecht - AFC Ajax II [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923695
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8b6a824fe10634e41c6b7fdce8dae713.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/37691.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png" group-title="CANLI MAÇLAR - Peru. Liga 1",Sport Huancayo - Deportivo Los Chankas [21:00]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923685
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/c40b8a28d6373d0c0344a29390f74aaa.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/886945543a6fecf6f4a4cd1fd9c4e283.png" group-title="CANLI MAÇLAR - Bulgaria. First League",Levski Sofia - PFC Lokomotiv Plovdiv [21:15]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923763
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/886945543a6fecf6f4a4cd1fd9c4e283.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/c19a2be959d4ac5a2f155e83c952a4cb.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/aa5f5294b65f900935fb35db83a46dda.png" group-title="CANLI MAÇLAR - WTA. Toronto",Mirra Andreeva - Leylah Annie Fernandez [21:25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923873
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/aa5f5294b65f900935fb35db83a46dda.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/18631d67ac4a6add6f19fa81f9ea0ddd.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8c6577124c63e669011422e2bf7485ae.png" group-title="CANLI MAÇLAR - Poland. Ekstraklasa",Wisła Kraków - Wisla PLock [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923874
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8c6577124c63e669011422e2bf7485ae.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/c66c5eac4a1a61d6d807f6c1e869a835.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ba997af73ca53f6afff3b4719be2fac5.png" group-title="CANLI MAÇLAR - Germany. 2. Bundesliga",VfL Bochum - Hertha BSC [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923877
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/ba997af73ca53f6afff3b4719be2fac5.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/76ef5b0629aa1ad9336b0afca148d0cd.PNG
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/6402.png" group-title="CANLI MAÇLAR - Scotland. Championship",Partick Thistle - Livingston [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923942
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/6402.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/a99a94f187d1da4e210c02f6b0caa380.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/077bb5204f4dbdef8c25ba5542717a28.png" group-title="CANLI MAÇLAR - WTA. Toronto. Doubles",Kessler/Pegula - Melichar-Martinez/Errani [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923992
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/077bb5204f4dbdef8c25ba5542717a28.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b2c1c65a34ca9c9348bdc328274f90cd.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/260f0227964cbb07f5ed446cb9c2f91f.png" group-title="CANLI MAÇLAR - ATP. Montreal. Doubles",Skupski/Harrison - Bhambri/Venus [21:30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923996
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/260f0227964cbb07f5ed446cb9c2f91f.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/8bb830be1c93acbad6e5a42a89f329af.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5326.png" group-title="CANLI MAÇLAR - France. National",Stade Malherbe Caen - Valenciennes AFC [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924068
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5326.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5302.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/fc2a7204dffc2aa77a7a3347937c194b.png" group-title="CANLI MAÇLAR - Belgium. Jupiler League",Club Brugge K.V. - K.V. Kortrijk [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923995
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/fc2a7204dffc2aa77a7a3347937c194b.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/666c1900c923e26c8cd583b3d15b941f.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/62453.png" group-title="CANLI MAÇLAR - Ireland. Premier League",Galway United F.C. - Drogheda United [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923987
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/62453.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/a08b0ceda1b826de08333a755ea14d5d.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/12007.png" group-title="CANLI MAÇLAR - Ireland. Premier League",Derry City F.C. - Sligo Rovers F.C. [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924029
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/12007.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/12003.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/32d5d2a9d242cbe4851376ed55feffa5.png" group-title="CANLI MAÇLAR - France. National",US Concarneau - US Orléans [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924067
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/32d5d2a9d242cbe4851376ed55feffa5.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5374.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/f03b493c5c3120f7c972bee4969a76e7.png" group-title="CANLI MAÇLAR - France. National",La Roche VF - Versailles 78 [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924072
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/f03b493c5c3120f7c972bee4969a76e7.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/57a22201ae6bc1f0dfb2e3e285825a91.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5370.png" group-title="CANLI MAÇLAR - France. National",FC Bourg-Péronnas - Villefranche [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924066
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/5370.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/f3d4c541581188895a93e394db4848ce.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/879c9e96cb8797b3bb767f0c2c8797ee.png" group-title="CANLI MAÇLAR - France. National",Aubagne - Thionville [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19924069
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/879c9e96cb8797b3bb767f0c2c8797ee.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/3dc5a9a3df8befa07dbf63d69b3b4e6a.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b991346416c107a8c1ee4f90f6f1fc02.png" group-title="CANLI MAÇLAR - England. League Cup",Wolverhampton Wanderers - Port Vale [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923977
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b991346416c107a8c1ee4f90f6f1fc02.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/2108.png
+
+#EXTINF:-1 tvg-logo="https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/2132.png" group-title="CANLI MAÇLAR - England. League Cup",Wycombe Wanderers - Stevenage [21:45]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.atomsportv512.top/
+19923980
+# İki logo: https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/2132.png | https://1xlite-58987.pro/resized/size16/sfiles/logo_teams/b0bc547052a9068c0115a4cb3f325b33.png
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="TV Kanalları",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36

@@ -9,56 +9,6 @@ https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
 https://g1b.d72577a9dd0ec74.cfd/https://t0k.d72577a9dd0ec74.cfd/hls/patron.m3u8/mono.m3u8
 # İki logo: https://patronsports2.cfd/img/logos/galatasaray.png | https://patronsports2.cfd/img/logos/amed.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/goztepe.png" group-title="CANLI MAÇLAR - Trendyol Süper Lig",Göztepe - İstanbul Başakşehir [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/goztepe.png | https://patronsports2.cfd/img/logos/istanbulspor.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/pendikspor.png" group-title="CANLI MAÇLAR - Trendyol 1. Lig",Pendikspor - İstanbulspor [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/pendikspor.png | https://patronsports2.cfd/img/logos/istanbulspor.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/fenerbahce.png" group-title="CANLI MAÇLAR - TVF Efeler Ligi",Fenerbahçe Medicana - Gebze Bld. [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/trtspor2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/fenerbahce.png | https://patronsports2.cfd/img/logos/gebzespor.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/motogp.png" group-title="CANLI MAÇLAR - MotoGP",MotoGP - Sprint Yarışları [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/motogp.png | https://patronsports2.cfd/img/logos/motogp.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/balikesirspor.png" group-title="CANLI MAÇLAR - TFF 3. Lig",Balıkesirspor - Gaziemirspor [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/balikesirspor.png | https://patronsports2.cfd/img/logos/gaziemirspor.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/kayafc.png" group-title="CANLI MAÇLAR - AFC Kadinlar Şampiyonlar Ligi",Kaya FC - Nasaf Qarshi [19:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/sms2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/kayafc.png | https://patronsports2.cfd/img/logos/nasaf.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/mantova.png" group-title="CANLI MAÇLAR - İtalya Serie B",Mantova - Verona [19:15]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/mantova.png | https://patronsports2.cfd/img/logos/verona.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/auxerre.png" group-title="CANLI MAÇLAR - Fransa Ligue 1",Auxerre - Paris FC [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/bm2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/auxerre.png | https://patronsports2.cfd/img/logos/paris.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/parma.png" group-title="CANLI MAÇLAR - İtalya Serie A",Parma - Bologna [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/parma.png | https://patronsports2.cfd/img/logos/bologna.png
-#EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/manresa.png" group-title="CANLI MAÇLAR - İspanya Basketbol Ligi",Manresa - Obradoiro CAB [20:00]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://patronsports2.cfd/
-https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
-# İki logo: https://patronsports2.cfd/img/logos/manresa.png | https://patronsports2.cfd/img/logos/obradoiro.png
 #EXTINF:-1 tvg-logo="https://patronsports2.cfd/img/logos/osasuna.png" group-title="CANLI MAÇLAR - İspanya La Liga",Osasuna - Athletic Bilbao [20:30]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://patronsports2.cfd/
